@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,61 +44,24 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The global market for UI/UX design tools and design system platforms is estimated at $2.6B to $3.2B (with the broader application development software sector exceeding $370B), growing at a CAGR of 15% to 22%. The sector is moderately fragmented across specialized categories such as component registries, visual regression testing, and unstyled accessible primitives, while frontend hosting infrastructure and enterprise app delivery demonstrate concentrated, winner-take-most dynamics dominated by scaled platforms like Vercel and OutSystems.
+
+
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Vercel](https://vercel.com)**  
-
-  Cloud frontend deployment and developer experience platform optimized for declarative UI frameworks (Next.js, React, SvelteKit, Vue, Astro) with instant preview URLs and edge rendering.
-
-
-
-- **[Chromatic (by Storybook Maintainers)](https://chromatic.com)**  
-
-  Cloud visual regression testing, UI review, and hosted Storybook publishing platform catching pixel-level CSS and Web Component rendering bugs on every pull request.
-
-
-
-- **[Bit.dev (Bit Cloud)](https://bit.cloud)**  
-
-  Composable component-driven development and cloud registry platform for building, versioning, testing, and collaborating on independent UI components across repositories.
-
-
-
-- **[Tailwind Plus (formerly Tailwind UI)](https://tailwindcss.com)**  
-
-  Commercial UI component and template library from the creators of Tailwind CSS offering hundreds of responsive application UI, marketing, and e-commerce blocks.
-
-
-
-- **[Storybook Cloud & Enterprise Add-ons](https://js.org)**  
-
-  Hosted documentation, design-token sync, and collaborative stakeholder review workflows extending open-source Storybook component workshops.
-
-
-
-- **[Flowbite Pro](https://flowbite.com)**  
-
-  Commercial design system and UI kit extending open-source Flowbite with Figma design tokens, dashboard templates, and interactive application components.
-
-
-
-- **[Radix UI Pro / WorkOS UI Ecosystem](https://radix-ui.com)**  
-
-  Enterprise UI engineering ecosystem and commercial design-system tooling built around accessible Radix primitives and modern React/web-component patterns.
-
-
-
-- **[Web Awesome Pro (formerly Shoelace Pro by Font Awesome)](https://webawesome.com)**  
-
-  Commercial tier extending open-source Shoelace Web Components with additional layout primitives, rich data components, and design-system themes.
-
-
-
-- **[Ionic Appflow & Enterprise Design Systems](https://ionic.io)**  
-
-  Cloud build, live preview, and enterprise support platform for cross-framework Web Component UI kits and mobile/web design systems.
+| Platform | Description | Pricing (Starting Tier) | Free Tier Limits | Company Size (Valuation / Revenue) |
+|---|---|---|---|---|
+| **[Ionic Appflow & Enterprise Design Systems](https://ionic.io)** (OutSystems) | Cloud build, live preview, and enterprise support platform for cross-framework Web Component UI kits and design systems. | $49/month (Standard tier historical starting price; enterprise custom) | Free tier limited to 500 Live Update MAUs and 100 native build minutes/month (OutSystems Personal Edition allows up to 100 internal users for non-production development). | Valuation: $9.5B / Revenue: ~$537M ARR |
+| **[Vercel](https://vercel.com)** | Cloud frontend deployment and developer experience platform optimized for declarative UI frameworks with instant preview URLs. | $20/seat/month (Pro plan) | Free forever (Hobby plan): Strictly non-commercial use, 100 GB Fast Data Transfer/month, 1M Function Invocations/month, 4 hours active CPU/month. | Valuation: $9.3B / Revenue: ~$340M ARR |
+| **[Radix UI Pro / WorkOS UI Ecosystem](https://radix-ui.com)** | Enterprise UI engineering ecosystem and commercial tooling built around accessible Radix primitives. | $125/connection/month (Enterprise SSO & SCIM Directory Sync starting tier) | Free forever (AuthKit tier): Free up to 1,000,000 Monthly Active Users (MAUs); core Radix UI primitives are 100% free and open-source under MIT with no limits. | Valuation: $2.0B / Revenue: ~$25M ARR |
+| **[Chromatic (by Storybook Maintainers)](https://chromatic.com)** | Cloud visual regression testing, UI review, and hosted Storybook publishing platform catching pixel-level bugs on pull requests. | $149/month (Starter plan) | Free forever: 5,000 visual snapshots/month, Chrome-only testing, unlimited collaborators (unlimited snapshots available for qualifying open-source). | Valuation: ~$100M+ (Est.) / Revenue: ~$15M ARR |
+| **[Bit.dev (Bit Cloud)](https://bit.cloud)** | Composable component-driven development and cloud registry platform for building, testing, and collaborating on UI components. | $25/seat/month (Pro plan) | Free forever: Unlimited public scopes and public components, core platform access, and 25 monthly credits (100 GB deployment bandwidth free). | Cumulative Funding: $36M / Revenue: ~$20M ARR |
+| **[Tailwind Plus (formerly Tailwind UI)](https://tailwindcss.com)** | Commercial UI component and template library offering hundreds of responsive application UI, marketing, and e-commerce blocks. | $299 one-time payment (Lifetime Personal/Solo Developer License; $979 Team License) | No full-library free plan; free access limited to sample component previews and open-source companion libraries (Tailwind CSS, Headless UI, Heroicons under MIT). | Cumulative Revenue: ~$15M+ / Annual Gross: ~$3M–$5M |
+| **[Flowbite Pro](https://flowbite.com)** | Commercial design system and UI kit extending open-source Flowbite with Figma design tokens, dashboard templates, and blocks. | $299 one-time payment (Single Developer lifetime license; $99/month for small teams) | Free forever (Community edition): 600+ components under MIT license with no revenue or traffic caps (commercial pro templates require paid license). | Bootstrapped / Estimated Revenue: ~$2M ARR |
+| **[Web Awesome Pro (formerly Shoelace Pro by Font Awesome)](https://webawesome.com)** | Commercial tier extending open-source Shoelace Web Components with layout primitives, rich data components, and themes. | $228/seat/year (~$19/seat/month billed annually) | Free forever (Web Awesome Core): Standard web components and core assets under MIT license with zero usage or pageview caps. | Bootstrapped & Crowdfunded / Revenue: ~$1.7M ARR |
 
 
 
